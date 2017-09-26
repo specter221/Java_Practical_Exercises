@@ -17,7 +17,7 @@ public class PE2 {
             System.out.println("Not a power of 4");
         }
 
-        else if(n%4==0 && n%8==0 && n%2==0 && n%3!=0 && n%5!=0 && n%7!=0 && n%9!=0)
+        else if(n%4==0 && n%8==0 && n%2==0 && n%3!=0 && n%5!=0 && n%7!=0 && n%9!=0 && n%11!=0)
         {
             System.out.println("Power of 4");
         }

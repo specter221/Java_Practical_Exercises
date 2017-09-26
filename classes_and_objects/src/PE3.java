@@ -11,7 +11,6 @@ public class PE3 {
         m.salary = 1000;
         System.out.println(m.name);
         System.out.println(m.age);
-
         System.out.println(m.salary);
     }
 }
